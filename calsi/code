@@ -23,4 +23,9 @@ out << "Enter two operands: ";
 
         case '*':
             cout << num1*num2;
+            break;case '/':
+            cout << num1/num2;
             break;
+
+        default:
+            // If the
