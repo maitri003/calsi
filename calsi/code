@@ -30,4 +30,6 @@ out << "Enter two operands: ";
         default:
             // If thecase '*':
             cout << num1*num2;
-            break;
+            breakcase '/':
+            cout << num1/num2;
+            break;;
