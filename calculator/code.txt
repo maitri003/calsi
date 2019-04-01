@@ -1,2 +1,7 @@
 # include<iostream>
 using namespace std;
+class test
+{
+public
+int x,int y,int sum;
+
