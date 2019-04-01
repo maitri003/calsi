@@ -8,4 +8,19 @@ int main()
 
     cout << "Enter operator either + or - or * or /: ";
     cin >> op;
+out << "Enter two operands: ";
+    cin >> num1 >> num2;
 
+    switch(op)
+    {
+        case '+':
+            cout << num1+num2;
+            break;
+
+        case '-':
+            cout << num1-num2;
+            break;
+
+        case '*':
+            cout << num1*num2;
+            break;
