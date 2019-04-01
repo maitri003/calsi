@@ -19,4 +19,18 @@ sum=x+y;
 cout<<"sum";
 }
 }
-int main()
+int mult(
+{
+sum =x*y
+cout<<sum;
+}
+}
+int main(
+{
+test z;
+int choice;
+cout<<"1.addition2.subraction\n3.multiplication\n4 division\n";
+cin>.choice;
+switch(choice
+{
+case1;)
